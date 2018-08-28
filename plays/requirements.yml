@@ -1,0 +1,4 @@
+---
+- src: https://github.com/daniel-ds/ansible-repo.git
+  version: master
+  name: multi-roles

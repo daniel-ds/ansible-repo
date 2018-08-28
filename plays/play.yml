@@ -1,0 +1,6 @@
+---
+- name: run multi roles
+  hosts: localhost
+  roles:
+    - multi-roles/role1
+    - multi-roles/role2
